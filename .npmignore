@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+src/
+babel.config.js
+jest.config.mjs
+test/
+tsconfig.json
+docs/
